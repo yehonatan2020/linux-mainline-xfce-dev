@@ -1,7 +1,7 @@
 #!/usr/bin/env bash
 # shellcheck disable=SC2034
 
-iso_name="Linux-Zen-Mainline-Dev"
+iso_name="Linux-Mainline-XFCE-Dev"
 iso_label="LINUXARCH_$(date +%Y%m)"
 iso_application="Linuxarch GUI Live/Rescue CD"
 iso_version="$(date +%Y.%m)"
