@@ -420,6 +420,6 @@ chaotic-keyring
 chaotic-mirrorlist
 
 #NVIDIA drivers & settings
-nvidia
+nvidia-dkms
 nvidia-utils
 nvidia-settings
